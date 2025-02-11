@@ -41,3 +41,10 @@ yarn-error.log*
 next-env.d.ts
 
 .vercel
+
+# .gitignore
+.next
+node_modules
+.env
+.env.local
+.vercel
