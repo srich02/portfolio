@@ -1,4 +1,3 @@
-// app/page.tsx
 'use client'
 
 import { useState, useEffect } from 'react'
@@ -50,7 +49,7 @@ export default function Home() {
           isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'
         }`}>
           <p className="text-gray-700 leading-relaxed">
-            Hi! I'm a software engineer based in Bengaluru, specializing in full-stack development.
+            Hi! I&apos;m a software engineer based in Bengaluru, specializing in full-stack development.
             I enjoy creating efficient, scalable solutions and exploring new technologies.
           </p>
           
