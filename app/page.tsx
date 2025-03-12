@@ -17,7 +17,7 @@ export default function Home() {
       }`}>
         <h1 className="text-4xl font-bold mb-4 text-gray-800">Sricharan S</h1>
         <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-          Software Application Development Engineer passionate about building scalable applications 
+          Software Development Engineer passionate about building scalable applications 
           and exploring new technologies.
         </p>
 
