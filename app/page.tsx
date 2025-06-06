@@ -27,7 +27,7 @@ export default function Home() {
             { icon: Linkedin, href: "https://www.linkedin.com/in/sricharan-s-179105151/", label: "LinkedIn" },
             { icon: Twitter, href: "https://twitter.com/BrkmstrSol", label: "Twitter" },
             { icon: Mail, href: "mailto:srichoffl@gmail.com", label: "Email" },
-            { icon: FileText, href: "/Sricharan S.pdf", label: "Resume" }
+            { icon: FileText, href: "/Sricharan.pdf", label: "Resume" }
           ].map((social, index) => (
             <a
               key={social.label}
