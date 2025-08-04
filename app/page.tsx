@@ -55,7 +55,7 @@ export default function Home() {
           
           <p className="text-gray-700 leading-relaxed">
             Currently working at Intel as a Software Application Development Engineer, 
-            focused on building enterprise applications and optimizing development workflows.
+            focused on building enterprise applications, I absolutely love architectural challenges, currently mastering DevOps.
           </p>
         </div>
       </div>
